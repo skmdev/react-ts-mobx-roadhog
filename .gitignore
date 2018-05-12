@@ -10,6 +10,9 @@
 /build
 /dist
 
+#css/less/sass definition
+/src/*.*ss.d.ts
+
 # misc
 .DS_Store
 .env.local
