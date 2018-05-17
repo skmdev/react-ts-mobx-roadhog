@@ -7,6 +7,11 @@
     ]
   },
   "rules": {
-    "ordered-imports": false
+    "ordered-imports": false,
+    "jsx-no-lambda": false,
+    "member-ordering": false,
+    "object-literal-sort-keys": false,
+    "no-console": false,
+    "jsx-boolean-value": false
   }
 }
